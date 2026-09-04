@@ -1,0 +1,81 @@
+about:
+  description:
+  |
+    Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+  license: MIT
+  homepage: https://colbymchenry.github.io/codegraph/
+  head: b9ca4b7
+  archived: false
+  latestVersion: v1.6.0
+  collectedAt: 2026-09-04T05:00:08Z
+timeline:
+  created: 2026-01-18
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-26
+popularity:
+  star: 69500
+  watcher: 170
+  fork: 4434
+  release: 31
+  contributor: 50
+  pullRequest: 489
+  issue: 689
+language:
+  C: 65185988
+  TypeScript: 8574192
+  Rust: 975392
+  Svelte: 396981
+  JavaScript: 362451
+  Shell: 182529
+  C++: 48307
+  Go: 24445
+  CSS: 21714
+  Astro: 16750
+  Python: 12622
+  Dart: 10455
+  Scala: 7484
+  C#: 6214
+  Kotlin: 5406
+  PHP: 5229
+  R: 4991
+  Swift: 4714
+  PowerShell: 4241
+  Ruby: 3916
+  Java: 2532
+  HTML: 2387
+  Lua: 1931
+  Luau: 1237
+totalBytes: 75862108
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 25
+    openPR: 65
+    closedIssue: 33
+    openIssue: 45
+    commit: 87
+  last90d:
+    since: 2026-06-06
+    release: 16
+    mergedPR: 314
+    openPR: 199
+    closedIssue: 234
+    openIssue: 159
+    commit: 521
+  last180d:
+    since: 2026-03-08
+    release: 31
+    mergedPR: 465
+    openPR: 312
+    closedIssue: 491
+    openIssue: 174
+    commit: 800
+  last360d:
+    since: 2025-09-09
+    release: 31
+    mergedPR: 481
+    openPR: 312
+    closedIssue: 515
+    openIssue: 174
+    commit: 900
