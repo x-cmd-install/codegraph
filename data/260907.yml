@@ -5,19 +5,19 @@ about:
   head: b9ca4b7
   archived: false
   latestVersion: "v1.6.0"
-  collectedAt: 2026-09-07T05:40:02Z
+  collectedAt: 2026-09-07T18:48:51Z
 timeline:
   created: 2026-01-18
   lastCommit: 2026-08-31
   lastRelease: 2026-08-26
 popularity:
-  star: 69877
+  star: 69947
   watcher: 169
-  fork: 4459
+  fork: 4464
   release: 31
   contributor: 50
-  pullRequest: 997
-  issue: 705
+  pullRequest: 1003
+  issue: 709
 language:
   C: 65185988
   TypeScript: 8574192
@@ -49,60 +49,60 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 20
-    openPR: 81
+    openPR: 87
     closedIssue: 35
-    openIssue: 52
+    openIssue: 56
     commit: 85
   last60d:
     since: 2026-07-09
     release: 5
     mergedPR: 120
-    openPR: 136
+    openPR: 142
     closedIssue: 85
-    openIssue: 125
+    openIssue: 129
     commit: 255
   last90d:
     since: 2026-06-09
     release: 16
     mergedPR: 287
-    openPR: 215
+    openPR: 221
     closedIssue: 226
-    openIssue: 170
+    openIssue: 174
     commit: 435
   last180d:
     since: 2026-03-11
     release: 31
     mergedPR: 465
-    openPR: 335
+    openPR: 341
     closedIssue: 491
-    openIssue: 187
+    openIssue: 191
     commit: 800
   last360d:
     since: 2025-09-12
     release: 31
     mergedPR: 481
-    openPR: 335
+    openPR: 341
     closedIssue: 518
-    openIssue: 187
+    openIssue: 191
     commit: 900
   last720d:
     since: 2024-09-17
     release: 31
     mergedPR: 481
-    openPR: 335
+    openPR: 341
     closedIssue: 518
-    openIssue: 187
+    openIssue: 191
     commit: 964
 total:
   release: 31
   mergedPR: 481
-  openPR: 335
+  openPR: 341
   closedIssue: 518
-  openIssue: 187
+  openIssue: 191
   commit: 964
 ---
 path: /home/runner/.x-repo/github.com/colbymchenry/codegraph
-collectedAt: 2026-09-07T05:40:07Z
+collectedAt: 2026-09-07T18:48:56Z
 loc:
   C:
     code: 2091293
@@ -263,7 +263,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:40:11+00:00
+  collectedAt: 2026-09-07T18:48:59+00:00
   platform:
     darwin/arm64:
       name:  codegraph-darwin-arm64.tar.gz
