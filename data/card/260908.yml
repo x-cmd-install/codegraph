@@ -2,34 +2,34 @@ about:
   description: "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local"
   license: MIT
   homepage: https://colbymchenry.github.io/codegraph/
-  head: b9ca4b7
+  head: a6f52d7
   archived: false
   latestVersion: "v1.6.0"
-  collectedAt: 2026-09-08T02:59:16Z
+  collectedAt: 2026-09-08T05:33:36Z
 timeline:
   created: 2026-01-18
-  lastCommit: 2026-08-31
+  lastCommit: 2026-09-08
   lastRelease: 2026-08-26
 popularity:
-  star: 69976
+  star: 69995
   watcher: 169
-  fork: 4465
+  fork: 4467
   release: 31
-  contributor: 50
-  pullRequest: 1004
-  issue: 711
+  contributor: 51
+  pullRequest: 1011
+  issue: 713
 language:
   C: 65185988
-  TypeScript: 8574192
-  Rust: 975392
+  TypeScript: 8646894
+  Rust: 977994
   Svelte: 396981
-  JavaScript: 362451
+  JavaScript: 362684
   Shell: 182529
   C++: 48307
   Go: 24445
   CSS: 21714
   Astro: 16750
-  Python: 12622
+  Python: 12863
   Dart: 10455
   Scala: 7484
   C#: 6214
@@ -43,66 +43,66 @@ language:
   HTML: 2387
   Lua: 1931
   Luau: 1237
-totalBytes: 75862108
+totalBytes: 75937886
 recent:
   last30d:
     since: 2026-08-09
     release: 1
-    mergedPR: 20
-    openPR: 88
-    closedIssue: 34
-    openIssue: 56
-    commit: 85
+    mergedPR: 28
+    openPR: 86
+    closedIssue: 42
+    openIssue: 50
+    commit: 93
   last60d:
     since: 2026-07-10
     release: 4
-    mergedPR: 110
-    openPR: 141
-    closedIssue: 80
-    openIssue: 131
-    commit: 255
+    mergedPR: 118
+    openPR: 138
+    closedIssue: 88
+    openIssue: 125
+    commit: 263
   last90d:
     since: 2026-06-10
     release: 16
-    mergedPR: 287
-    openPR: 221
-    closedIssue: 216
-    openIssue: 172
-    commit: 435
+    mergedPR: 295
+    openPR: 217
+    closedIssue: 224
+    openIssue: 166
+    commit: 443
   last180d:
     since: 2026-03-12
     release: 31
-    mergedPR: 465
-    openPR: 340
-    closedIssue: 491
-    openIssue: 193
-    commit: 800
+    mergedPR: 473
+    openPR: 336
+    closedIssue: 499
+    openIssue: 187
+    commit: 808
   last360d:
     since: 2025-09-13
     release: 31
-    mergedPR: 481
-    openPR: 342
-    closedIssue: 518
-    openIssue: 193
-    commit: 900
+    mergedPR: 489
+    openPR: 338
+    closedIssue: 526
+    openIssue: 187
+    commit: 908
   last720d:
     since: 2024-09-18
     release: 31
-    mergedPR: 481
-    openPR: 342
-    closedIssue: 518
-    openIssue: 193
-    commit: 964
+    mergedPR: 489
+    openPR: 338
+    closedIssue: 526
+    openIssue: 187
+    commit: 972
 total:
   release: 31
-  mergedPR: 481
-  openPR: 342
-  closedIssue: 518
-  openIssue: 193
-  commit: 964
+  mergedPR: 489
+  openPR: 338
+  closedIssue: 526
+  openIssue: 187
+  commit: 972
 ---
 path: /home/runner/.x-repo/github.com/colbymchenry/codegraph
-collectedAt: 2026-09-08T02:59:22Z
+collectedAt: 2026-09-08T05:33:44Z
 loc:
   C:
     code: 2091293
@@ -110,14 +110,14 @@ loc:
     blanks: 274
     files: 9
   TypeScript:
-    code: 150914
-    comments: 45069
-    blanks: 17583
-    files: 577
+    code: 152592
+    comments: 44983
+    blanks: 17618
+    files: 583
   Rust:
-    code: 21097
-    comments: 1168
-    blanks: 1475
+    code: 21134
+    comments: 1172
+    blanks: 1476
     files: 27
   Json:
     code: 13731
@@ -125,9 +125,9 @@ loc:
     blanks: 0
     files: 25
   JavaScript:
-    code: 6189
-    comments: 1372
-    blanks: 528
+    code: 6196
+    comments: 1373
+    blanks: 529
     files: 46
   Svelte:
     code: 4309
@@ -170,9 +170,9 @@ loc:
     blanks: 54
     files: 9
   Python:
-    code: 267
-    comments: 8
-    blanks: 42
+    code: 273
+    comments: 9
+    blanks: 44
     files: 2
   Svg:
     code: 232
@@ -251,14 +251,14 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 22076
-    blanks: 4148
-    files: 87
+    comments: 22104
+    blanks: 4168
+    files: 89
 total:
-  code: 2304843
-  comments: 74489
-  blanks: 26806
-  files: 975
+  code: 2306571
+  comments: 74439
+  blanks: 26865
+  files: 983
 ---
 
 ---
