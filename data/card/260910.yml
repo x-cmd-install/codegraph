@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.6.0"
   latestRelease: "v1.6.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:33:39Z
+  collectedAt: 2026-09-10T23:19:47Z
 timeline:
   created: 2026-01-18
   lastCommit: 2026-09-09
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-26
   lastPrerelease: 
 popularity:
-  star: 70403
+  star: 70413
   watcher: 170
-  fork: 4500
+  fork: 4502
   release: 31
   contributor: 55
   pullRequest: 1071
@@ -106,7 +106,7 @@ total:
   commit: 1024
 ---
 path: /home/runner/.x-repo/github.com/colbymchenry/codegraph
-collectedAt: 2026-09-10T20:33:49Z
+collectedAt: 2026-09-10T23:19:53Z
 loc:
   C:
     code: 2091293
