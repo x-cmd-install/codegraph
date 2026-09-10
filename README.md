@@ -38,7 +38,7 @@ Total: **2,306,148** lines of code across **719** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 70,403 · **Forks**: 4,500 · **Open issues**: 736 · **Contributors**: 55
+- **Stars**: 70,413 · **Forks**: 4,502 · **Open issues**: 736 · **Contributors**: 55
 
 ## Totals (cumulative)
 
@@ -84,4 +84,4 @@ Install metadata for codegraph lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:34:15Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:20:04Z._

@@ -12,7 +12,7 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 x install codegraph
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **2,306,148** 行代码（覆盖前 5 种语言、共 **719** 个文件）。
 
@@ -38,7 +38,7 @@ x install codegraph
 
 ## 流行度
 
-- **Star**: 70,403 · **Fork**: 4,500 · **开放 issue**: 736 · **贡献者**: 55
+- **Star**: 70,413 · **Fork**: 4,502 · **开放 issue**: 736 · **贡献者**: 55
 
 ## 累计统计
 
@@ -84,4 +84,4 @@ codegraph 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:34:16Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:20:05Z._
