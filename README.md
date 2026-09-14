@@ -38,22 +38,22 @@ Total: **2,306,148** lines of code across **719** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 70,620 · **Forks**: 4,521 · **Open issues**: 743 · **Contributors**: 55
+- **Stars**: 70,728 · **Forks**: 4,534 · **Open issues**: 746 · **Contributors**: 55
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 535 · **Open PRs**: 329 · **Closed issues**: 575 · **Open issues**: 168 · **Commits**: 1024
+- **Releases**: 31 · **Merged PRs**: 535 · **Open PRs**: 334 · **Closed issues**: 575 · **Open issues**: 171 · **Commits**: 1024
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 70 | 80 | 66 | 44 | 142 |
-| last60d | 2026-07-15 | 2 | 162 | 120 | 126 | 96 | 312 |
-| 90d | 2026-06-15 | 14 | 281 | 180 | 250 | 146 | 492 |
-| last180d | 2026-03-17 | 31 | 519 | 327 | 546 | 168 | 857 |
-| 360d | 2025-09-18 | 31 | 535 | 329 | 575 | 168 | 957 |
-| last720d | 2024-09-23 | 31 | 535 | 329 | 575 | 168 | 1024 |
+| 30d | 2026-08-15 | 1 | 70 | 84 | 60 | 46 | 137 |
+| last60d | 2026-07-16 | 2 | 139 | 124 | 126 | 97 | 229 |
+| 90d | 2026-06-16 | 14 | 281 | 185 | 245 | 149 | 456 |
+| last180d | 2026-03-18 | 31 | 516 | 332 | 545 | 171 | 844 |
+| 360d | 2025-09-19 | 31 | 535 | 334 | 575 | 171 | 957 |
+| last720d | 2024-09-24 | 31 | 535 | 334 | 575 | 171 | 1024 |
 
 ## Release assets
 
@@ -67,14 +67,6 @@ Total: **2,306,148** lines of code across **719** files in the top 5 languages.
 | [codegraph-win32-x64.zip](https://github.com/colbymchenry/codegraph/releases/download/v1.6.0/codegraph-win32-x64.zip) | 50.2 MiB | `native/win/x64` |
 | [SHA256SUMS](https://github.com/colbymchenry/codegraph/releases/download/v1.6.0/SHA256SUMS) | 560 B | `other` |
 
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/codegraph). **4** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `1.6.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for codegraph lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `codegraph` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +76,4 @@ Install metadata for codegraph lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:49:40Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:03:59Z._
