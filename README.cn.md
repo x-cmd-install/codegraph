@@ -4,7 +4,7 @@
 
 Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 
-![codegraph](https://repo.x-cmd.io/codegraph.svg?lang=zh)
+[![x-cmd/install — codegraph Code Quality Monitoring Repo Card](https://repo.x-cmd.io/codegraph.svg?lang=zh)](https://x-cmd.com/install/codegraph)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install codegraph
 
 ## 流行度
 
-- **Star**: 71,352 · **Fork**: 4,585 · **开放 issue**: 755 · **贡献者**: 58
+- **Star**: 71,519 · **Fork**: 4,597 · **开放 issue**: 761 · **贡献者**: 58
 
 ## 累计统计
 
-- **发布数**: 31 · **已合并 PR**: 543 · **开放 PR**: 345 · **已关闭 issue**: 582 · **开放 issue**: 173 · **提交数**: 1046
+- **发布数**: 31 · **已合并 PR**: 543 · **开放 PR**: 345 · **已关闭 issue**: 582 · **开放 issue**: 179 · **提交数**: 1046
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 77 | 95 | 64 | 47 | 157 |
-| last60d | 2026-07-20 | 2 | 110 | 131 | 130 | 84 | 249 |
-| 90d | 2026-06-20 | 14 | 286 | 191 | 243 | 148 | 476 |
-| last180d | 2026-03-22 | 31 | 524 | 343 | 552 | 173 | 864 |
-| 360d | 2025-09-23 | 31 | 543 | 345 | 582 | 173 | 977 |
-| last720d | 2024-09-28 | 31 | 543 | 345 | 582 | 173 | 1046 |
+| 30d | 2026-08-21 | 1 | 75 | 91 | 57 | 53 | 157 |
+| last60d | 2026-07-22 | 1 | 96 | 129 | 106 | 83 | 249 |
+| 90d | 2026-06-22 | 14 | 272 | 190 | 238 | 153 | 476 |
+| last180d | 2026-03-24 | 31 | 524 | 343 | 551 | 179 | 864 |
+| 360d | 2025-09-25 | 31 | 543 | 345 | 582 | 179 | 977 |
+| last720d | 2024-09-30 | 31 | 543 | 345 | 582 | 179 | 1046 |
 
 ## Release 资产
 
@@ -76,4 +76,4 @@ codegraph 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:54:49Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:56:04Z._

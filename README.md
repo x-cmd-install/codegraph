@@ -4,7 +4,7 @@
 
 Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 
-![codegraph](https://repo.x-cmd.io/codegraph.svg)
+[![x-cmd/install — codegraph Code Quality Monitoring Repo Card](https://repo.x-cmd.io/codegraph.svg)](https://x-cmd.com/install/codegraph)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **2,308,399** lines of code across **727** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 71,352 · **Forks**: 4,585 · **Open issues**: 755 · **Contributors**: 58
+- **Stars**: 71,519 · **Forks**: 4,597 · **Open issues**: 761 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 543 · **Open PRs**: 345 · **Closed issues**: 582 · **Open issues**: 173 · **Commits**: 1046
+- **Releases**: 31 · **Merged PRs**: 543 · **Open PRs**: 345 · **Closed issues**: 582 · **Open issues**: 179 · **Commits**: 1046
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 77 | 95 | 64 | 47 | 157 |
-| last60d | 2026-07-20 | 2 | 110 | 131 | 130 | 84 | 249 |
-| 90d | 2026-06-20 | 14 | 286 | 191 | 243 | 148 | 476 |
-| last180d | 2026-03-22 | 31 | 524 | 343 | 552 | 173 | 864 |
-| 360d | 2025-09-23 | 31 | 543 | 345 | 582 | 173 | 977 |
-| last720d | 2024-09-28 | 31 | 543 | 345 | 582 | 173 | 1046 |
+| 30d | 2026-08-21 | 1 | 75 | 91 | 57 | 53 | 157 |
+| last60d | 2026-07-22 | 1 | 96 | 129 | 106 | 83 | 249 |
+| 90d | 2026-06-22 | 14 | 272 | 190 | 238 | 153 | 476 |
+| last180d | 2026-03-24 | 31 | 524 | 343 | 551 | 179 | 864 |
+| 360d | 2025-09-25 | 31 | 543 | 345 | 582 | 179 | 977 |
+| last720d | 2024-09-30 | 31 | 543 | 345 | 582 | 179 | 1046 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for codegraph lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:54:48Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:56:03Z._
