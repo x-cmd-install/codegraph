@@ -32,40 +32,40 @@ x install codegraph
 
 ## 发布
 
-- **最新版本**: `v1.6.1` (2026-09-29)
+- **最新版本**: `v1.6.2` (2026-10-03)
 - **最近提交**: 2026-10-03
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 73,020 · **Fork**: 4,686 · **开放 issue**: 813 · **贡献者**: 71
+- **Star**: 73,144 · **Fork**: 4,695 · **开放 issue**: 822 · **贡献者**: 71
 
 ## 累计统计
 
-- **发布数**: 32 · **已合并 PR**: 810 · **开放 PR**: 373 · **已关闭 issue**: 678 · **开放 issue**: 135 · **提交数**: 1315
+- **发布数**: 33 · **已合并 PR**: 811 · **开放 PR**: 372 · **已关闭 issue**: 678 · **开放 issue**: 144 · **提交数**: 1317
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 1 | 327 | 106 | 97 | 31 | 345 |
-| last60d | 2026-08-04 | 2 | 353 | 150 | 162 | 44 | 481 |
-| 90d | 2026-07-05 | 7 | 461 | 194 | 253 | 91 | 639 |
-| last180d | 2026-04-06 | 32 | 781 | 371 | 643 | 135 | 1069 |
-| 360d | 2025-10-08 | 32 | 810 | 373 | 678 | 135 | 1246 |
-| last720d | 2024-10-13 | 32 | 810 | 373 | 678 | 135 | 1315 |
+| 30d | 2026-09-04 | 2 | 327 | 101 | 92 | 40 | 347 |
+| last60d | 2026-08-05 | 3 | 354 | 148 | 160 | 52 | 483 |
+| 90d | 2026-07-06 | 8 | 459 | 192 | 251 | 99 | 641 |
+| last180d | 2026-04-07 | 33 | 782 | 370 | 642 | 144 | 1071 |
+| 360d | 2025-10-09 | 33 | 811 | 372 | 678 | 144 | 1248 |
+| last720d | 2024-10-14 | 33 | 811 | 372 | 678 | 144 | 1317 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [codegraph-darwin-arm64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.1/codegraph-darwin-arm64.tar.gz) | 55.3 MiB | `native/darwin/arm64` |
-| [codegraph-darwin-x64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.1/codegraph-darwin-x64.tar.gz) | 56.3 MiB | `native/darwin/x64` |
-| [codegraph-linux-arm64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.1/codegraph-linux-arm64.tar.gz) | 59.8 MiB | `native/linux/arm64` |
-| [codegraph-linux-x64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.1/codegraph-linux-x64.tar.gz) | 60.2 MiB | `native/unknown` |
-| [codegraph-win32-arm64.zip](https://github.com/colbymchenry/codegraph/releases/download/v1.6.1/codegraph-win32-arm64.zip) | 47.6 MiB | `native/win/arm64` |
-| [codegraph-win32-x64.zip](https://github.com/colbymchenry/codegraph/releases/download/v1.6.1/codegraph-win32-x64.zip) | 51.4 MiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/colbymchenry/codegraph/releases/download/v1.6.1/SHA256SUMS) | 560 B | `other` |
+| [codegraph-darwin-arm64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-darwin-arm64.tar.gz) | 55.6 MiB | `native/darwin/arm64` |
+| [codegraph-darwin-x64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-darwin-x64.tar.gz) | 56.6 MiB | `native/darwin/x64` |
+| [codegraph-linux-arm64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-linux-arm64.tar.gz) | 60.1 MiB | `native/linux/arm64` |
+| [codegraph-linux-x64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-linux-x64.tar.gz) | 60.5 MiB | `native/unknown` |
+| [codegraph-win32-arm64.zip](https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-win32-arm64.zip) | 47.9 MiB | `native/win/arm64` |
+| [codegraph-win32-x64.zip](https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-win32-x64.zip) | 51.7 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/SHA256SUMS) | 560 B | `other` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ codegraph 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261003.yml` · 2026-10-03T06:13:42Z._
+_数据快照: `data/card/261004.yml` · 2026-10-04T06:37:45Z._
