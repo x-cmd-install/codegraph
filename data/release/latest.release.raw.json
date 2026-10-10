@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 58280485,
       "digest": "sha256:d74d1bfb4060db63ec3c2b72c4e17f76c31978af3bad6ace4370d1501ac0662e",
-      "download_count": 4101,
+      "download_count": 4675,
       "created_at": "2026-10-03T06:41:15Z",
       "updated_at": "2026-10-03T06:41:17Z",
       "browser_download_url": "https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-darwin-arm64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 59393903,
       "digest": "sha256:53d1a4d1a9af31d6cec11b346df2ae792087081e13f623f583e27783c1e7f9bc",
-      "download_count": 479,
+      "download_count": 578,
       "created_at": "2026-10-03T06:41:15Z",
       "updated_at": "2026-10-03T06:41:18Z",
       "browser_download_url": "https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-darwin-x64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 63017097,
       "digest": "sha256:c8c6be292be21d00dea26bad8b28d434731cf612fb8cc475dc10f5b3038b5b64",
-      "download_count": 563,
+      "download_count": 633,
       "created_at": "2026-10-03T06:41:15Z",
       "updated_at": "2026-10-03T06:41:17Z",
       "browser_download_url": "https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-linux-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 63433974,
       "digest": "sha256:ef0af416092128fb1ccc723786000b7edf4a6971fe604acd08bf966e4f37b828",
-      "download_count": 5370,
+      "download_count": 6820,
       "created_at": "2026-10-03T06:41:15Z",
       "updated_at": "2026-10-03T06:41:17Z",
       "browser_download_url": "https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-linux-x64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 50258514,
       "digest": "sha256:308f7bf92e7886f4d5f767a4755d703e92d5cae78ac042b8907f1e99db0fc071",
-      "download_count": 69,
+      "download_count": 77,
       "created_at": "2026-10-03T06:41:15Z",
       "updated_at": "2026-10-03T06:41:17Z",
       "browser_download_url": "https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-win32-arm64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 54260850,
       "digest": "sha256:7455e817ee8032666867a1badeb799b8a884c5f4fea9b444e088a02069b6deea",
-      "download_count": 3665,
+      "download_count": 4348,
       "created_at": "2026-10-03T06:41:17Z",
       "updated_at": "2026-10-03T06:41:19Z",
       "browser_download_url": "https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-win32-x64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 560,
       "digest": "sha256:4e6fc8b6b0478c76c3a10ff48323c715b030b8faecb3826210c50a5863549cb5",
-      "download_count": 1891,
+      "download_count": 2231,
       "created_at": "2026-10-03T06:41:17Z",
       "updated_at": "2026-10-03T06:41:18Z",
       "browser_download_url": "https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/SHA256SUMS"
