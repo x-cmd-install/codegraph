@@ -14,12 +14,12 @@ x install codegraph
 
 ## Code insight
 
-Total: **2,035,951** lines of code across **1033** files in the top 5 languages.
+Total: **2,037,734** lines of code across **1041** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | C | 1,741,668 | 1,048 | 309 | 10 |
-| TypeScript | 234,885 | 59,484 | 23,364 | 921 |
+| TypeScript | 236,668 | 60,083 | 23,528 | 929 |
 | Rust | 23,811 | 1,306 | 1,548 | 28 |
 | Json | 13,718 | 0 | 0 | 25 |
 | JavaScript | 6,465 | 1,434 | 539 | 49 |
@@ -33,27 +33,27 @@ Total: **2,035,951** lines of code across **1033** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.6.2` (2026-10-03)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-10
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 73,544 · **Forks**: 4,734 · **Open issues**: 839 · **Contributors**: 75
+- **Stars**: 73,637 · **Forks**: 4,740 · **Open issues**: 842 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 899 · **Open PRs**: 384 · **Closed issues**: 695 · **Open issues**: 144 · **Commits**: 1405
+- **Releases**: 33 · **Merged PRs**: 906 · **Open PRs**: 382 · **Closed issues**: 696 · **Open issues**: 146 · **Commits**: 1412
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 2 | 361 | 104 | 80 | 29 | 379 |
-| last60d | 2026-08-10 | 3 | 437 | 155 | 166 | 49 | 521 |
-| 90d | 2026-07-11 | 4 | 527 | 196 | 251 | 87 | 691 |
-| last180d | 2026-04-12 | 33 | 870 | 382 | 658 | 144 | 1136 |
-| 360d | 2025-10-14 | 33 | 899 | 384 | 695 | 144 | 1336 |
-| last720d | 2024-10-19 | 33 | 899 | 384 | 695 | 144 | 1405 |
+| 30d | 2026-09-10 | 2 | 368 | 103 | 75 | 30 | 0 |
+| last60d | 2026-08-11 | 3 | 444 | 153 | 165 | 51 | 0 |
+| 90d | 2026-07-12 | 4 | 534 | 191 | 251 | 86 | 0 |
+| last180d | 2026-04-13 | 33 | 877 | 380 | 659 | 146 | 0 |
+| 360d | 2025-10-15 | 33 | 906 | 382 | 696 | 146 | 0 |
+| last720d | 2024-10-20 | 33 | 906 | 382 | 696 | 146 | 1412 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for codegraph lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:59:21Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:35:18Z._
