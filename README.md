@@ -38,22 +38,22 @@ Total: **2,773,062** lines of code across **1442** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 76,301 · **Forks**: 5,070 · **Open issues**: 985 · **Contributors**: 75
+- **Stars**: 76,453 · **Forks**: 5,079 · **Open issues**: 992 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 1347 · **Open PRs**: 68 · **Closed issues**: 818 · **Open issues**: 167 · **Commits**: 1853
+- **Releases**: 33 · **Merged PRs**: 1347 · **Open PRs**: 71 · **Closed issues**: 818 · **Open issues**: 174 · **Commits**: 1853
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 528 | 52 | 104 | 54 | 447 |
-| last60d | 2026-09-04 | 2 | 863 | 63 | 215 | 77 | 828 |
-| 90d | 2026-08-05 | 3 | 890 | 66 | 284 | 88 | 969 |
-| last180d | 2026-05-07 | 33 | 1307 | 68 | 769 | 167 | 1565 |
-| 360d | 2025-11-08 | 33 | 1347 | 68 | 818 | 167 | 1784 |
-| last720d | 2024-11-13 | 33 | 1347 | 68 | 818 | 167 | 1853 |
+| 30d | 2026-10-05 | 0 | 510 | 55 | 100 | 61 | 447 |
+| last60d | 2026-09-05 | 2 | 863 | 66 | 210 | 82 | 828 |
+| 90d | 2026-08-06 | 3 | 889 | 69 | 278 | 94 | 969 |
+| last180d | 2026-05-08 | 33 | 1299 | 71 | 768 | 174 | 1565 |
+| 360d | 2025-11-09 | 33 | 1347 | 71 | 818 | 174 | 1784 |
+| last720d | 2024-11-14 | 33 | 1347 | 71 | 818 | 174 | 1853 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for codegraph lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:46:58Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:14:35Z._
