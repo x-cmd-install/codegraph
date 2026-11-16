@@ -10,6 +10,13 @@
     - lapsus@aur
   licenses:
     - MIT
+- repo: chocolatey
+  binname: codegraph
+  visiblename: CodeGraph
+  version: 1.6.2
+  origversion: null
+  status: newest
+  summary: Build a local code knowledge graph for semantic code intelligence.
 - repo: nix_unstable
   srcname: codegraph
   visiblename: codegraph
