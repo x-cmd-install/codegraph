@@ -14,15 +14,15 @@ x install codegraph
 
 ## 代码洞察
 
-合计: **2,780,302** 行代码（覆盖前 5 种语言、共 **1457** 个文件）。
+合计: **2,875,903** 行代码（覆盖前 5 种语言、共 **1530** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| C | 2,357,724 | 1,104 | 433 | 12 |
-| TypeScript | 360,762 | 80,762 | 32,515 | 1341 |
-| Rust | 25,433 | 1,440 | 1,572 | 28 |
+| C | 2,437,022 | 1,132 | 435 | 12 |
+| TypeScript | 376,203 | 83,849 | 33,788 | 1413 |
+| Rust | 26,272 | 1,481 | 1,623 | 29 |
 | Json | 13,147 | 0 | 0 | 25 |
-| JavaScript | 6,883 | 1,528 | 558 | 51 |
+| JavaScript | 6,890 | 1,533 | 558 | 51 |
 
 ## 源代码
 
@@ -32,48 +32,48 @@ x install codegraph
 
 ## 发布
 
-- **最新版本**: `v1.6.2` (2026-10-03)
-- **最近提交**: 2026-11-16
+- **最新版本**: `v1.6.3` (2026-11-17)
+- **最近提交**: 2026-11-19
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 77,809 · **Fork**: 5,197 · **开放 issue**: 1,033 · **贡献者**: 75
+- **Star**: 78,048 · **Fork**: 5,206 · **开放 issue**: 1,039 · **贡献者**: 75
 
 ## 累计统计
 
-- **发布数**: 33 · **已合并 PR**: 1359 · **开放 PR**: 100 · **已关闭 issue**: 822 · **开放 issue**: 211 · **提交数**: 1865
+- **发布数**: 34 · **已合并 PR**: 1433 · **开放 PR**: 76 · **已关闭 issue**: 905 · **开放 issue**: 134 · **提交数**: 1944
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 368 | 82 | 46 | 95 | 218 |
-| last60d | 2026-09-18 | 2 | 808 | 89 | 166 | 108 | 819 |
-| 90d | 2026-08-19 | 3 | 892 | 97 | 260 | 127 | 967 |
-| last180d | 2026-05-21 | 28 | 1278 | 100 | 718 | 210 | 1501 |
-| 360d | 2025-11-22 | 33 | 1359 | 100 | 822 | 211 | 1796 |
-| last720d | 2024-11-27 | 33 | 1359 | 100 | 822 | 211 | 1865 |
+| 30d | 2026-10-20 | 1 | 373 | 58 | 120 | 21 | 297 |
+| last60d | 2026-09-20 | 3 | 882 | 66 | 241 | 34 | 898 |
+| 90d | 2026-08-21 | 4 | 964 | 72 | 333 | 53 | 1046 |
+| last180d | 2026-05-23 | 25 | 1338 | 76 | 768 | 133 | 1580 |
+| 360d | 2025-11-24 | 34 | 1433 | 76 | 905 | 134 | 1875 |
+| last720d | 2024-11-29 | 34 | 1433 | 76 | 905 | 134 | 1944 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [codegraph-darwin-arm64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-darwin-arm64.tar.gz) | 55.6 MiB | `native/darwin/arm64` |
-| [codegraph-darwin-x64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-darwin-x64.tar.gz) | 56.6 MiB | `native/darwin/x64` |
-| [codegraph-linux-arm64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-linux-arm64.tar.gz) | 60.1 MiB | `native/linux/arm64` |
-| [codegraph-linux-x64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-linux-x64.tar.gz) | 60.5 MiB | `native/unknown` |
-| [codegraph-win32-arm64.zip](https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-win32-arm64.zip) | 47.9 MiB | `native/win/arm64` |
-| [codegraph-win32-x64.zip](https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-win32-x64.zip) | 51.7 MiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/SHA256SUMS) | 560 B | `other` |
+| [codegraph-darwin-arm64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.3/codegraph-darwin-arm64.tar.gz) | 56.4 MiB | `native/darwin/arm64` |
+| [codegraph-darwin-x64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.3/codegraph-darwin-x64.tar.gz) | 57.7 MiB | `native/darwin/x64` |
+| [codegraph-linux-arm64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.3/codegraph-linux-arm64.tar.gz) | 61.0 MiB | `native/linux/arm64` |
+| [codegraph-linux-x64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.3/codegraph-linux-x64.tar.gz) | 61.5 MiB | `native/unknown` |
+| [codegraph-win32-arm64.zip](https://github.com/colbymchenry/codegraph/releases/download/v1.6.3/codegraph-win32-arm64.zip) | 48.6 MiB | `native/win/arm64` |
+| [codegraph-win32-x64.zip](https://github.com/colbymchenry/codegraph/releases/download/v1.6.3/codegraph-win32-x64.zip) | 52.6 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/colbymchenry/codegraph/releases/download/v1.6.3/SHA256SUMS) | 560 B | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/codegraph) 上共有 **5** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/codegraph) 上共有 **5** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Nix unstable | `1.6.2` | ✅ latest |
+| Nix unstable | `1.6.2` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -84,4 +84,4 @@ codegraph 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T10:11:21Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T09:16:49Z._
