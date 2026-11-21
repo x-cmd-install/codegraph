@@ -2,8 +2,8 @@
   srcname: codegraph-bin
   binname: codegraph-bin
   visiblename: codegraph-bin
-  version: 1.6.3
-  origversion: 1.6.3-1
+  version: 1.6.4
+  origversion: 1.6.4-1
   status: newest
   summary: Pre-indexed code knowledge graph for AI coding assistants — fewer tokens, fewer tool calls, 100% local
   maintainers:
@@ -20,7 +20,7 @@
 - repo: nix_unstable
   srcname: codegraph
   visiblename: codegraph
-  version: 1.6.2
+  version: 1.6.3
   origversion: null
   status: outdated
   summary: Pre-indexed code knowledge graph for AI coding agents
@@ -32,7 +32,7 @@
   subrepo: main
   binname: codegraph
   visiblename: codegraph
-  version: 1.6.3
+  version: 1.6.4
   origversion: null
   status: newest
   licenses:
@@ -42,7 +42,7 @@
   visiblename: codegraph
   version: 1.6.3
   origversion: null
-  status: newest
+  status: outdated
   summary: Pre-indexed code knowledge graph
   maintainers:
     - t2@t2-project.org
