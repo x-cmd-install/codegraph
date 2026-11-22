@@ -40,9 +40,9 @@
 - repo: t2
   srcname: codegraph
   visiblename: codegraph
-  version: 1.6.3
+  version: 1.6.4
   origversion: null
-  status: outdated
+  status: newest
   summary: Pre-indexed code knowledge graph
   maintainers:
     - t2@t2-project.org
