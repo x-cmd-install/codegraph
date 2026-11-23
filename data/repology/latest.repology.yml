@@ -13,7 +13,7 @@
 - repo: chocolatey
   binname: codegraph
   visiblename: CodeGraph
-  version: 1.6.2
+  version: 1.6.3
   origversion: null
   status: outdated
   summary: Build a local code knowledge graph for semantic code intelligence.
