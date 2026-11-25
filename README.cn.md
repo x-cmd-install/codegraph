@@ -38,22 +38,22 @@ x install codegraph
 
 ## 流行度
 
-- **Star**: 78,565 · **Fork**: 5,230 · **开放 issue**: 1,063 · **贡献者**: 79
+- **Star**: 78,651 · **Fork**: 5,242 · **开放 issue**: 1,066 · **贡献者**: 79
 
 ## 累计统计
 
-- **发布数**: 35 · **已合并 PR**: 1459 · **开放 PR**: 96 · **已关闭 issue**: 914 · **开放 issue**: 149 · **提交数**: 1971
+- **发布数**: 35 · **已合并 PR**: 1459 · **开放 PR**: 97 · **已关闭 issue**: 914 · **开放 issue**: 152 · **提交数**: 1971
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 275 | 73 | 112 | 35 | 238 |
-| last60d | 2026-09-25 | 4 | 901 | 83 | 247 | 45 | 823 |
-| 90d | 2026-08-26 | 5 | 980 | 92 | 329 | 66 | 1008 |
-| last180d | 2026-05-28 | 23 | 1315 | 96 | 701 | 145 | 1544 |
-| 360d | 2025-11-29 | 35 | 1459 | 96 | 914 | 149 | 1902 |
-| last720d | 2024-12-04 | 35 | 1459 | 96 | 914 | 149 | 1971 |
+| 30d | 2026-10-26 | 2 | 275 | 74 | 109 | 37 | 238 |
+| last60d | 2026-09-26 | 4 | 898 | 84 | 234 | 47 | 823 |
+| 90d | 2026-08-27 | 4 | 980 | 93 | 326 | 69 | 1008 |
+| last180d | 2026-05-29 | 22 | 1310 | 97 | 692 | 147 | 1544 |
+| 360d | 2025-11-30 | 35 | 1459 | 97 | 914 | 152 | 1902 |
+| last720d | 2024-12-05 | 35 | 1459 | 97 | 914 | 152 | 1971 |
 
 ## Release 资产
 
@@ -67,14 +67,6 @@ x install codegraph
 | [codegraph-win32-x64.zip](https://github.com/colbymchenry/codegraph/releases/download/v1.6.4/codegraph-win32-x64.zip) | 53.2 MiB | `native/win/x64` |
 | [SHA256SUMS](https://github.com/colbymchenry/codegraph/releases/download/v1.6.4/SHA256SUMS) | 560 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/codegraph) 上共有 **5** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `1.6.3` | ⚠️ outdated |
-
 ## 改进这些数据
 
 codegraph 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `codegraph` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -84,4 +76,4 @@ codegraph 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:45:37Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:21:33Z._
