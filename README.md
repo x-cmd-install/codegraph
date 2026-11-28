@@ -14,15 +14,15 @@ x install codegraph
 
 ## Code insight
 
-Total: **3,190,314** lines of code across **1554** files in the top 5 languages.
+Total: **3,193,364** lines of code across **1568** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | C | 2,741,688 | 1,229 | 426 | 12 |
-| TypeScript | 385,342 | 85,434 | 34,412 | 1437 |
-| Rust | 26,739 | 1,492 | 1,632 | 29 |
+| TypeScript | 387,856 | 86,181 | 34,683 | 1446 |
+| Rust | 26,338 | 1,512 | 1,636 | 29 |
 | Json | 13,147 | 0 | 0 | 25 |
-| JavaScript | 6,890 | 1,533 | 558 | 51 |
+| JavaScript | 7,827 | 1,619 | 591 | 56 |
 
 ## Source
 
@@ -32,40 +32,40 @@ Total: **3,190,314** lines of code across **1554** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.6.4` (2026-11-20)
-- **Last commit**: 2026-11-27
+- **Latest**: `v1.6.5` (2026-11-28)
+- **Last commit**: 2026-11-28
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 78,849 · **Forks**: 5,262 · **Open issues**: 1,074 · **Contributors**: 79
+- **Stars**: 78,991 · **Forks**: 5,269 · **Open issues**: 1,077 · **Contributors**: 79
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 1460 · **Open PRs**: 102 · **Closed issues**: 914 · **Open issues**: 160 · **Commits**: 1972
+- **Releases**: 36 · **Merged PRs**: 1465 · **Open PRs**: 105 · **Closed issues**: 914 · **Open issues**: 163 · **Commits**: 1978
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 2 | 248 | 79 | 76 | 44 | 239 |
-| last60d | 2026-09-28 | 4 | 827 | 87 | 231 | 54 | 824 |
-| 90d | 2026-08-29 | 4 | 980 | 98 | 322 | 77 | 1009 |
-| last180d | 2026-05-31 | 22 | 1308 | 102 | 678 | 154 | 1545 |
-| 360d | 2025-12-02 | 35 | 1460 | 102 | 914 | 160 | 1903 |
-| last720d | 2024-12-07 | 35 | 1460 | 102 | 914 | 160 | 1972 |
+| 30d | 2026-10-29 | 3 | 235 | 82 | 63 | 45 | 0 |
+| last60d | 2026-09-29 | 5 | 814 | 90 | 224 | 57 | 0 |
+| 90d | 2026-08-30 | 5 | 985 | 100 | 321 | 80 | 0 |
+| last180d | 2026-06-01 | 23 | 1311 | 105 | 662 | 157 | 0 |
+| 360d | 2025-12-03 | 36 | 1465 | 105 | 914 | 163 | 0 |
+| last720d | 2024-12-08 | 36 | 1465 | 105 | 914 | 163 | 1978 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [codegraph-darwin-arm64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.4/codegraph-darwin-arm64.tar.gz) | 57.0 MiB | `native/darwin/arm64` |
-| [codegraph-darwin-x64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.4/codegraph-darwin-x64.tar.gz) | 58.2 MiB | `native/darwin/x64` |
-| [codegraph-linux-arm64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.4/codegraph-linux-arm64.tar.gz) | 61.6 MiB | `native/linux/arm64` |
-| [codegraph-linux-x64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.4/codegraph-linux-x64.tar.gz) | 62.0 MiB | `native/unknown` |
-| [codegraph-win32-arm64.zip](https://github.com/colbymchenry/codegraph/releases/download/v1.6.4/codegraph-win32-arm64.zip) | 49.2 MiB | `native/win/arm64` |
-| [codegraph-win32-x64.zip](https://github.com/colbymchenry/codegraph/releases/download/v1.6.4/codegraph-win32-x64.zip) | 53.2 MiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/colbymchenry/codegraph/releases/download/v1.6.4/SHA256SUMS) | 560 B | `other` |
+| [codegraph-darwin-arm64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.5/codegraph-darwin-arm64.tar.gz) | 57.1 MiB | `native/darwin/arm64` |
+| [codegraph-darwin-x64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.5/codegraph-darwin-x64.tar.gz) | 58.3 MiB | `native/darwin/x64` |
+| [codegraph-linux-arm64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.5/codegraph-linux-arm64.tar.gz) | 61.7 MiB | `native/linux/arm64` |
+| [codegraph-linux-x64.tar.gz](https://github.com/colbymchenry/codegraph/releases/download/v1.6.5/codegraph-linux-x64.tar.gz) | 62.1 MiB | `native/unknown` |
+| [codegraph-win32-arm64.zip](https://github.com/colbymchenry/codegraph/releases/download/v1.6.5/codegraph-win32-arm64.zip) | 49.2 MiB | `native/win/arm64` |
+| [codegraph-win32-x64.zip](https://github.com/colbymchenry/codegraph/releases/download/v1.6.5/codegraph-win32-x64.zip) | 53.3 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/colbymchenry/codegraph/releases/download/v1.6.5/SHA256SUMS) | 560 B | `other` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for codegraph lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:47:45Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:26:48Z._
